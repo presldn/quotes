@@ -2,20 +2,16 @@
    "quotes": [
       {
        "author": "Audrey Hepburn",
-       "message": "Nothing is impossible, the word itself says I’m possible”!",
-       "keywords": ["Perseverance", "Success"]
+       "message": "Nothing is impossible, the word itself says I’m possible”!"
      }, {
        "author": "Maya Angelou",
-       "message": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-       "keywords": ["Relationships"]
+       "message": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
      }, {
        "author": "Mary Harris Jones",
-       "message": "I’m not a humanitarian, I’m a hell-raiser.",
-       "keywords": ["Women"]
+       "message": "I’m not a humanitarian, I’m a hell-raiser."
      }, {
        "message": "Dont waste your life in doubts and fears: Spend yourself on the work before you, well assured that the right performance of this hours duties will be the best preparation for the hours or ages that follow it.",
-       "author": "Ralph Waldo Emerson",
-       "keywords": ["Dreams", "Bravery"]
+       "author": "Ralph Waldo Emerson"
      }
    ]
 }
